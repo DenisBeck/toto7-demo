@@ -595,14 +595,11 @@ h6 {
           flex: 1 1 auto;
 }
 
-.event__team img:not(:last-child) {
-  margin-bottom: 0.625rem;
-}
-
 .event__team-name {
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
+  margin-top: 10px;
 }
 
 .event__actions {
